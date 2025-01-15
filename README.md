@@ -36,8 +36,10 @@ A responsive and aesthetically pleasing form for creating a user account. This p
 ---
 
 ## Project Structure
+```
 project-folder/
 ├── img/
 │   └── Render.PNG
 ├── form_stylesheet.css
 ├── form.html
+```
